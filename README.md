@@ -1,3 +1,10 @@
+TEAM MEMBER:
+CHIRAG AHIR(1016164)
+KAJALBEN PRAJAPATI(1012650)
+KRINABEN GAJJAR(1010533)
+
+NYCEM Emergency Notifications
+
 In the realm of public safety, timely communication during emergency events is paramount. The NYCEM Emergency Notifications dataset provides a rich collection of messages sent with information about emergency events and important City services. In this project, our objective is to analyze this dataset comprehensively, implementing various machine learning models to derive meaningful insights and enhance our understanding of emergency notifications in New York City.
 Dataset Overview
 
